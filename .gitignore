@@ -9,6 +9,7 @@ __pycache__/
 .Python
 env/
 .env/
+.ipynb_checkpoints/
 build/
 develop-eggs/
 dist/
@@ -58,3 +59,7 @@ docs/_build/
 target/
 
 *.key/
+
+# Project specific
+
+diamonds/
