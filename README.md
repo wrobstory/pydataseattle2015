@@ -36,7 +36,8 @@ The following libraries or projects are briefly mentioned:
 * Biggus: https://github.com/SciTools/biggus
 * Spartan: https://github.com/spartan-array/spartan
 * Ibis: https://github.com/cloudera/ibis
-* 
+* scikit-learn: https://github.com/scikit-learn/scikit-learn
+* statsmodels: https://github.com/statsmodels/statsmodels/
 
 The example Notebook can be read directly in Github, or on [nbviewer](http://nbviewer.ipython.org/github/wrobstory/pydataseattle2015/blob/master/PyDataSeattle2015.ipynb). 
 
