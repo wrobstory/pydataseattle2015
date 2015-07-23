@@ -24,6 +24,10 @@ This talk gives brief demos of the following libraries:
 
 The following libraries or projects are briefly mentioned: 
 
+* Cython: https://github.com/cython/cython
+* Numexpr: https://github.com/pydata/numexpr
+* Numba: https://github.com/numba/numba
+* Numpy: https://github.com/numpy/numpy
 * Spark: http://spark.apache.org/
 * Bolt: http://bolt-project.org/
 * Dato SArray: https://dato.com/products/create/docs/generated/graphlab.SArray.html
@@ -31,6 +35,8 @@ The following libraries or projects are briefly mentioned:
 * DistArray: https://github.com/enthought/distarray
 * Biggus: https://github.com/SciTools/biggus
 * Spartan: https://github.com/spartan-array/spartan
+* Ibis: https://github.com/cloudera/ibis
+* 
 
 The example Notebook can be read directly in Github, or on [nbviewer](http://nbviewer.ipython.org/github/wrobstory/pydataseattle2015/blob/master/PyDataSeattle2015.ipynb). 
 
