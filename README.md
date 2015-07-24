@@ -13,7 +13,7 @@ This repo contains the slides, data, and Jupyter Notebook for the PyData Seattle
 > 
 > **What Python library do I use?**
 
-This talk presents brief snippets of code demo'ing the following libraries: 
+This talk presents discusses the following libraries in some depth: 
 
 * Toolz: https://github.com/pytoolz/toolz
 * Pandas: https://github.com/pydata/pandas
