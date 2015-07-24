@@ -41,7 +41,7 @@ The following libraries or projects are briefly mentioned:
 * Bokeh: https://github.com/bokeh/bokeh
 * seaborn: https://github.com/mwaskom/seaborn
 
-There is an example Notebook that goes into much more depth on the core libraries discussed in the talk; it can be read directly in Github, or on [nbviewer](http://nbviewer.ipython.org/github/wrobstory/pydataseattle2015/blob/master/PyDataSeattle2015.ipynb). 
+There is an example Notebook that goes into much more detail on the core libraries discussed in the talk, with plenty of examples; it can be read directly in Github, or on [nbviewer](http://nbviewer.ipython.org/github/wrobstory/pydataseattle2015/blob/master/PyDataSeattle2015.ipynb). 
 
 If you would like to run the example yourself, you will need to either pip or conda install the follow dependencies: 
 ```
