@@ -13,7 +13,7 @@ This repo contains the slides, data, and Jupyter Notebook for the PyData Seattle
 > 
 > **What Python library do I use?**
 
-This talk gives brief demos of the following libraries: 
+This talk presents brief snippets of code demo'ing the following libraries: 
 
 * Toolz: https://github.com/pytoolz/toolz
 * Pandas: https://github.com/pydata/pandas
@@ -38,8 +38,10 @@ The following libraries or projects are briefly mentioned:
 * Ibis: https://github.com/cloudera/ibis
 * scikit-learn: https://github.com/scikit-learn/scikit-learn
 * statsmodels: https://github.com/statsmodels/statsmodels/
+* Bokeh: https://github.com/bokeh/bokeh
+* seaborn: https://github.com/mwaskom/seaborn
 
-The example Notebook can be read directly in Github, or on [nbviewer](http://nbviewer.ipython.org/github/wrobstory/pydataseattle2015/blob/master/PyDataSeattle2015.ipynb). 
+There is an example Notebook that goes into much more depth on the core libraries discussed in the talk; it can be read directly in Github, or on [nbviewer](http://nbviewer.ipython.org/github/wrobstory/pydataseattle2015/blob/master/PyDataSeattle2015.ipynb). 
 
 If you would like to run the example yourself, you will need to either pip or conda install the follow dependencies: 
 ```
